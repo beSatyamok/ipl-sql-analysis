@@ -22,4 +22,3 @@ Dataset contains 1382+ deliveries from IPL 2026 season.
 - DDL: CREATE TABLE, DROP TABLE
 - DML: INSERT, UPDATE, DELETE
 - Joins: INNER JOIN
--
